@@ -1,0 +1,27 @@
+{
+  "include": [
+    "scripts",
+    "tasks",
+    "tokenizer"
+  ],
+  "venvPath": "env",
+  "reportUnknownVariableType": false,
+  "reportUnknownMemberType": false,
+  "reportUnusedImport": true,
+  "reportUnusedVariable": true,
+  "reportUnusedClass": true,
+  "reportUnusedFunction": true,
+  "reportImportCycles": true,
+  "reportTypeshedErrors": true,
+  "reportOptionalMemberAccess": true,
+  "reportUntypedBaseClass": true,
+  "reportPrivateUsage": true,
+  "reportConstantRedefinition": true,
+  "reportInvalidStringEscapeSequence": true,
+  "reportUnnecessaryIsInstance": true,
+  "reportUnnecessaryCast": true,
+  "reportAssertAlwaysTrue": true,
+  "reportSelfClsParameterName": true,
+  "pythonVersion": "3.7",
+  "pythonPlatform": "Linux"
+}

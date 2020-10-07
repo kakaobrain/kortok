@@ -1,0 +1,10 @@
+genre	filename	year	id	score	sentence1	sentence2
+main-captions	MSRvid	2012test	0001	5.000	비행기가 이륙하고 있다.	비행기가 이륙하고 있다.
+main-captions	MSRvid	2012test	0004	3.800	한 남자가 큰 플루트를 연주하고 있다.	남자가 플루트를 연주하고 있다.
+main-captions	MSRvid	2012test	0005	3.800	한 남자가 피자에 치즈를 뿌려놓고 있다.	한 남자가 구운 피자에 치즈 조각을 뿌려놓고 있다.
+main-captions	MSRvid	2012test	0006	2.600	세 남자가 체스를 하고 있다.	두 남자가 체스를 하고 있다.
+main-captions	MSRvid	2012test	0009	4.250	한 남자가 첼로를 연주하고 있다.	자리에 앉은 남자가 첼로를 연주하고 있다.
+main-captions	MSRvid	2012test	0011	4.250	몇몇 남자들이 싸우고 있다.	두 남자가 싸우고 있다.
+main-captions	MSRvid	2012test	0012	0.500	남자가 담배를 피우고 있다.	남자가 스케이트를 타고 있다.
+main-captions	MSRvid	2012test	0013	1.600	남자가 피아노를 치고 있다.	남자가 기타를 연주하고 있다.
+main-captions	MSRvid	2012test	0014	2.200	한 남자가 기타를 치고 노래를 부르고 있다.	한 여성이 어쿠스틱 기타를 연주하고 노래를 부르고 있다.

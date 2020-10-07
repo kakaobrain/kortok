@@ -1,0 +1,12 @@
+{
+    "vocab_size": 64000,
+    "character_coverage": 1.0,
+    "reverse": false,
+    "normalization_rule_name": "identity",
+    "pad_piece": "[PAD]",
+    "unk_piece": "[UNK]",
+    "bos_piece": "[BOS]",
+    "eos_piece": "[EOS]",
+    "unk_surface": "[UNK]",
+    "special_symbols": "[CLS],[SEP],[MASK]"
+}

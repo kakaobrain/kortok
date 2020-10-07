@@ -1,0 +1,10 @@
+id	sentence1	sentence2	label
+4	Four Rivers 위원회와 Audubon 위원회의 병합으로 Shawnee Trails 위원회가 탄생했습니다.	Shawnee Trails Council은 Four Rivers Council과 Audubon Council의 병합으로 구성되었습니다.	1
+6	Kathy와 그녀의 남편 Pete Beale(Peter Dean)은 재정적으로 안정적입니다.	Kathy와 그녀의 남편 Peter Dean(Pete Beale)은 재정적으로 안정적입니다.	1
+7	Timora diarhoda는 밤나방과의 일종입니다. 이것은 남아프리카를 포함해 아프리카에서 발견되는 종입니다.	Diarhoda는 밤나방과 나방입니다. 이것은 아프리카를 포함해 남아프리카에서 발견됩니다.	1
+9	Joe R. Campa Jr.는 미 해군의 열한 번째 원사로 복무한 미국 해군의 예전 선원입니다.	Joe R. Campa Jr.는 미국 해군의 11번째 해군 주임 원사로 복무한 전직 미 해군 Matrose입니다.	1
+13	사우스 와투파 호수로도 알려진 쿡 호수는 로렐 호 남동쪽이자 톤턴 강 서쪽에 자리하고 있습니다.	공식 명칭이 Laurel Lake인 Cook Pond는 Taunton River 남동쪽, South Watuppa Pond 서쪽에 있습니다.	0
+15	이 가족은 1972년 Camp Hill로 옮겼으며 여기에서 그는 펜실베니아주 Harrisburg에 있는 Trinity 고등학교를 다녔습니다.	1972년 이 가족은 Camp Hill로 이사갔고 그곳에서 펜실베니아주 Harrisburg에 있는 Trinity 고등학교를 방문했습니다.	1
+18	힘이 시스템에 적용되었을 때 요소가 분해된다면 탄력 잠재 시스템 요소가 기계 에너지를 저장합니다.	탄성 포텐셜 시스템의 구성 요소에 힘이 가해져 시스템으로 변형될 경우 기계적 에너지가 보관됩니다.	1
+23	수리 천문학 분야에서 그의 명성은 천문학적 세계를 도입했다는 점과 행성의 움직임을 이해하는 것에 대한 그의 초기 기여 때문이었습니다.	그의 명성은 수리 천문학계에 천문학적 구를 도입하고 행성의 이동을 이해하는데 초반 공헌이 컸기 때문입니다.	1
+25	"Macpelah Cemetery" 또는 "Macphelah Cemetery"로도 적는 뉴저지주 Hudson County는 Machpolah Cemetery에 있는 묘지입니다.	"Macpelah Cemetery", "Macphelah Cemetery"로 표기하는 Machpelah a묘지는 뉴저지주 Hudson County에 있는 묘지입니다.	0

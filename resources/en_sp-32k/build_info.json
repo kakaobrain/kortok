@@ -1,0 +1,10 @@
+{
+    "vocab_size": 32000,
+    "character_coverage": 1.0,
+    "normalization_rule_name": "nmt_nfkc",
+    "pad_piece": "[PAD]",
+    "unk_piece": "[UNK]",
+    "bos_piece": "[BOS]",
+    "eos_piece": "[EOS]",
+    "unk_surface": "[UNK]"
+}
