@@ -154,3 +154,7 @@ python tasks/<TASK_NAME>/run_train.py --tokenizer <TOKENIZER_NAME>
   year={2020}
 }
 ```
+
+## Acknowledgements
+
+For pre-training models, we used Cloud TPUs provided by [TensorFlow Research Cloud](https://www.tensorflow.org/tfrc/) program.
